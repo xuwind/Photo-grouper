@@ -1,0 +1,42 @@
+Start test at: Thu Jan 25 22:46:19 2018
+
+Test Unit: gpNvm_SetAttribute()
+
+8ÿaset UINT8 value successfully: id=1, length=1, value=211
+set UINT32 value successfully: id=2, length=4, value=1211211
+set String/Array value successfully: id=3, length=20, value=*6A
+Start test at: Thu Jan 25 22:49:13 2018
+
+Test Unit: gpNvm_SetAttribute()
+
+8ÿaset UINT8 value successfully: id=1, length=1, value=211
+set UINT32 value successfully: id=2, length=4, value=1211211
+set String/Array value successfully: id=3, length=20, value=*6A
+Start test at: Thu Jan 25 23:30:40 2018
+
+Test Unit: gpNvm_SetAttribute()
+
+	set UINT8 value successfully: id=1, length=1, value=211
+	set UINT32 value successfully: id=2, length=4, value=1211211
+	set String/Array value successfully: id=3, length=20, value={12,21,42,54,65}
+
+
+Test Unit: gpNvm_GetAttribute()
+
+	get UINT8 value successfully: id=1, length=1, value=211
+	get UINT32 value successfully: id=2, length=4, value=1211211
+	get String/Array value successfully: id=3, length=20, value={12,21,42,54,65}
+Start test at: Thu Jan 25 23:39:08 2018
+
+Test Unit: gpNvm_SetAttribute()
+
+	set UINT8 value successfully: id=1, length=1, value=211
+	set UINT32 value successfully: id=2, length=4, value=1211211
+	set String/Array value successfully: id=3, length=20, value={12,21,42,54,65}
+
+
+Test Unit: gpNvm_GetAttribute()
+
+	get UINT8 value successfully: id=1, length=1, value=211
+	get UINT32 value successfully: id=2, length=4, value=1211211
+	get String/Array value successfully: id=3, length=20, value={12,21,42,54,65}

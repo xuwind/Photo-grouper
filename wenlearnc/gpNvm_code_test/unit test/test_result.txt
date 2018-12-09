@@ -1,0 +1,17 @@
+Start test at: Fri Jan 26 00:08:03 2018
+
+	Test Unit: gpNvm_SetAttribute()
+
+		set UINT8 value successfully: id=1, length=1, value=211
+		set UINT32 value successfully: id=2, length=4, value=1211211
+		set String/Array value successfully: id=3, length=20, value={12,21,42,54,65}
+
+	Test Unit: gpNvm_GetAttribute()
+
+		get UINT8 value successfully: id=1, length=1, value=211
+		get UINT32 value successfully: id=2, length=4, value=1211211
+		get String/Array value successfully: id=3, length=20, value={12,21,42,54,65}
+
+End test at: Fri Jan 26 00:08:03 2018
+
+

@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1516891514 source:c:\users\xulu\workspace\wenlearnc\wen learning\main.c
+	"functions.h"
+
+1516891344 source:c:\users\xulu\workspace\wenlearnc\wen learning\functions.c
+	"functions.h"
+
+1516891346 c:\users\xulu\workspace\wenlearnc\wen learning\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1516892875 source:c:\users\xulu\workspace\wenlearnc\wen learning\unit_test.c
+	"functions.h"
+
+1516920894 source:c:\users\xulu\workspace\wenlearnc\gpnvm_code_test\functions.c
+	"functions.h"
+
+1516916563 c:\users\xulu\workspace\wenlearnc\gpnvm_code_test\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1516919584 source:c:\users\xulu\workspace\wenlearnc\gpnvm_code_test\main.c
+	"functions.h"
+
+1516921407 source:c:\users\xulu\workspace\wenlearnc\gpnvm_code_test\unit_test.c
+	"functions.h"
+
