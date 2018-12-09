@@ -1,0 +1,8 @@
+C:\Users\xulu\Desktop\PhotoGrouper\PhotoGrouper\bin\Release\PhotoGrouper.exe.config
+C:\Users\xulu\Desktop\PhotoGrouper\PhotoGrouper\bin\Release\PhotoGrouper.exe
+C:\Users\xulu\Desktop\PhotoGrouper\PhotoGrouper\bin\Release\PhotoGrouper.pdb
+C:\Users\xulu\Desktop\PhotoGrouper\PhotoGrouper\obj\Release\PhotoGrouper.Form1.resources
+C:\Users\xulu\Desktop\PhotoGrouper\PhotoGrouper\obj\Release\PhotoGrouper.Properties.Resources.resources
+C:\Users\xulu\Desktop\PhotoGrouper\PhotoGrouper\obj\Release\PhotoGrouper.csproj.GenerateResource.Cache
+C:\Users\xulu\Desktop\PhotoGrouper\PhotoGrouper\obj\Release\PhotoGrouper.exe
+C:\Users\xulu\Desktop\PhotoGrouper\PhotoGrouper\obj\Release\PhotoGrouper.pdb
