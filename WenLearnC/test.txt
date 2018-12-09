@@ -1,0 +1,1 @@
+It is just a small c embedded application with to store the key loaded first time after reboot.
